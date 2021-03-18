@@ -23,5 +23,5 @@ If the matching digits are in their right positions, they are "bulls", if in dif
 <h2>Example of programs work</h2>
 <div>
 <p>Let's say our guessed number is: 1122. With that given number, program workflow will be as on the gif below.</p>
-<img src="https://github.com/vlemish/bulls-and-cows-app/blob/master/imgs/bulls-cows-example.gif" alt="bulls-and-cows-example" width="500" height="500">
+<img src="https://github.com/vlemish/bulls-and-cows-app/blob/master/imgs/bulls-cows-example.gif" alt="bulls-and-cows-example" width="978" height="500">
 </div>
