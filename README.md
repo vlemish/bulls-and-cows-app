@@ -20,7 +20,7 @@ If the matching digits are in their right positions, they are "bulls", if in dif
 <p>I would like you to present my solver for this gorgeous game.</p> 
 <p>Current implementation  can work with up to 9 digit numbers, the number may have repeating numbers. The solver remembers users steps, so if use made a mistake he can step back and change his input.</p>
 </div>
-<h2>Example of programs work</h2>
+<h2>Example of program work</h2>
 <div>
 <p>Let's say our guessed number is: 1122. With that given number, program workflow will be as on the gif below.</p>
 <img src="https://github.com/vlemish/bulls-and-cows-app/blob/master/imgs/bulls-cows-example.gif" alt="bulls-and-cows-example" width="978" height="500">
